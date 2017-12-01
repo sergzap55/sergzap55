@@ -1,2 +1,2 @@
 # 360
-Thisi is my 360 Image
+This is my 360 Image
