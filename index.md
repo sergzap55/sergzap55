@@ -1,5 +1,6 @@
 ### Welcome to THS
 360 Photos of Toppenish High School
+
 Annual 1
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/pl6nq" ></script>
 
