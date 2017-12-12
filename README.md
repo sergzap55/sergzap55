@@ -1,4 +1,4 @@
 ### 360
-This is my 360 Image
+360 Photos of our Toppenish High School
 
 
