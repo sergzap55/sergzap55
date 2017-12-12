@@ -26,4 +26,4 @@
 
 ***
 ### MARKDOWN
-(https://github.com/sergzap55/sergzap55.github.io/blob/master/markdown.png "Markdown Example")
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
