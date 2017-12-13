@@ -29,4 +29,4 @@
 
 ![alt text][markdown]
 
-[markdown]: https://github.com/sergzap55/sergzap55.github.io/blob/master/markdown.png "Markdown"
+[markdown]: https://github.com/sergzap55/sergzap55.github.io/blob/master/markdown.png?raw=true "Markdown"
