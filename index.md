@@ -25,8 +25,3 @@
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/2dj2m" ></script>
 
 ***
-### MARKDOWN
-
-![alt text][markdown]
-
-[markdown]: https://github.com/sergzap55/sergzap55.github.io/blob/master/markdown.png?raw=true "Markdown"
